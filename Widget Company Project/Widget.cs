@@ -19,9 +19,9 @@ namespace Widget_Company_Project
             {"MedBasic", 100},
             {"MedAdvance", 200},
             {"MedEnterprise", 400},
-            {"LargeBasic",250},
+            {"LargeBasic", 150},
             {"LargeAdvance", 275},
-            {"LargeEnterprise", 50}
+            {"LargeEnterprise", 550}
         };
         
         public void getPrice()

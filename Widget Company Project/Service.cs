@@ -10,6 +10,7 @@ namespace Widget_Company_Project
     {
         public Guid WidgetId { get; set; }
         public int ServiceYears { get; set; }
+        
 
 
         public Service() { }
